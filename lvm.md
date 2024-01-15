@@ -30,5 +30,5 @@ sudo resize2fs /dev/mapper/ubuntu--vg-ubuntu--lv
 ```
 8. Проверьте свободное место:
 ```bash
-
+df -h
 ```
